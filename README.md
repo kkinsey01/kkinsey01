@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kkinsey01
-- 👀 I’m interested in ... learning to program in Java, Python, and developing website
-- 🌱 I’m currently learning ... Web Development
+- 👋 Hi, I’m Kyler Kinsey
+- 👀 I’m interested in ... learning to program in Java, Python, and developing websites
+- 🌱 I’m currently learning ... Web Development and Software Development
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... email me at kylerkinsey01@gmail.com
 
